@@ -4,7 +4,7 @@ booktitle: Proceedings of The 36th International Conference on Algorithmic Learn
 shortname: ALT
 volume: '272'
 year: '2025'
-start: &1 2025-02-24
+start: 2025-02-24
 end: 2025-02-27
 published: 2025-02-17
 conference_number: '36'
@@ -70,7 +70,7 @@ conference:
   url: http://algorithmiclearningtheory.org/alt2025/
   location: Politecnico di Milano, Milan, Italy
   dates:
-  - *1
+  - 2025-02-24
   - 2025-02-25
   - 2025-02-26
   - 2025-02-27
